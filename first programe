@@ -1,0 +1,20 @@
+<html ng-app="myApp">
+<head>
+    <script src=" https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+
+</head>
+<body>
+
+    <h1>
+        hellow world
+    </h1>
+    <div ng-controller = " MainController">
+        {{ val }}
+
+    </div>
+    <script type=text/"javascript" src="js/pret.js"></script>
+
+
+
+</body>
+</html>
